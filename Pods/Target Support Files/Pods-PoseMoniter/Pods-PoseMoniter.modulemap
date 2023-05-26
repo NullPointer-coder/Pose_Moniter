@@ -1,0 +1,6 @@
+framework module Pods_PoseMoniter {
+  umbrella header "Pods-PoseMoniter-umbrella.h"
+
+  export *
+  module * { export * }
+}
